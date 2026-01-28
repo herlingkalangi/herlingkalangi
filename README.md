@@ -7,8 +7,8 @@
 ###
 
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,surrealdb,actix,yew&titles=true" width="37" height="25" alt="linkedin logo"  />
-</div>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" width="37" height="25" alt="linkedin logo"  />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" width="37" height="25" alt="linkedin logo" />
 
 ###
 
