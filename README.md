@@ -5,7 +5,7 @@
 ![herling kalangi](img/header-banner.png)
 
 <div>
-<div style="display:inline-block; vertical-align:top; width:45%; text-align:center;">
+<div style="display:inline-block; vertical-align:top; width:40%; text-align:center;">
 <img
     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmljNDFuaXBydmgwMGMzdmlmbzRsOTJzMDdlbndoNGV2aXZ6ZjI1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"
 />
