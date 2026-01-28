@@ -15,7 +15,7 @@
 <div style="display:inline-block; vertical-align:top; width:50%; text-align:left; margin-left:25px;">
 
 <h3 style="margin:0;" align="center">Skills</h3>
-<hr style="margin:15px 0; width:100%;"/>
+<hr style="margin:15px 0; width:48%;"/>
 
 <div align="left">
 
