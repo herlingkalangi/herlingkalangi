@@ -26,16 +26,16 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,html,css,php"/>
 
 <h5>UI / Component Library</h5>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=shadcn " width="22%" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=shadcn"/>
 
 
 <h5>Tools</h5>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,git,postman" width="74%" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,git,postman" />
 
 </div>
 
   <!-- COL 2 -->
-<div style="display:inline-block; vertical-align:top; width:37%;">
+<div style="display:inline-block; vertical-align:top; width:48%;">
 
 <h5>Frameworks</h5>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,react,tailwind" />
